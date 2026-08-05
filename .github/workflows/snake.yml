@@ -22,7 +22,7 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: manvendra1864
+          github_user_name: anjalitalan
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%237DF9FF&color_dots=%230D1117,%234169E1,%230096FF,%237DF9FF,%23FFFFFF
 
