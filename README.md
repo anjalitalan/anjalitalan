@@ -83,7 +83,7 @@
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anjalitalan/anjalitalan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+  <img src="https://raw.githubusercontent.com/anjalitalan/anjalitalan/output/github-contribution-grid-snake.svg?v=3" alt="GitHub contribution snake animation">
 </p>
 
 <h2 align="center">🌐 Let's Connect</h2>
