@@ -1,14 +1,13 @@
 name: Generate Contribution Snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
-
   workflow_dispatch:
 
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -20,11 +19,13 @@ jobs:
 
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: anjalitalan
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23FFA8CB&color_dots=%230D1117,%2351C9B3,%23FFA8CB,%2351C9B3,%23FFA8CB
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#FFA8CB&color_dots=#0D1117,#51C9B3,#FFA8CB,#51C9B3,#FFA8CB
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish contribution snake
         uses: crazy-max/ghaction-github-pages@v4
