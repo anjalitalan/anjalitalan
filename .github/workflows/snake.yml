@@ -20,14 +20,11 @@ jobs:
 
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: anjalitalan
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#FFA8CB&color_dots=#F7EDE4,#51C9B340,#51C9B380,#51C9B3BF,#51C9B3
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFA8CB&color_dots=#161B22,#51C9B340,#51C9B380,#51C9B3BF,#51C9B3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23FFA8CB&color_dots=%230D1117,%2351C9B3,%23FFA8CB,%2351C9B3,%23FFA8CB
 
       - name: Publish contribution snake
         uses: crazy-max/ghaction-github-pages@v4
