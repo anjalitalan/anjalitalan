@@ -11,8 +11,8 @@
 <!--
 <p align="center">
   <img src="https://img.shields.io/github/followers/anjalitalan?style=for-the-badge&logo=github&label=Followers&color=FFA8CB" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/anjalitalan/anjalitalan?style=for-the-badge&logo=github&label=Stars&color=51C9B3" alt="GitHub profile stars">
-  <img src="https://komarev.com/ghpvc/?username=anjalitalan&style=for-the-badge&color=51C9B3" alt="Profile views">
+  <img src="https://img.shields.io/github/stars/anjalitalan/anjalitalan?style=for-the-badge&logo=github&label=Stars&color=FFC4D9" alt="GitHub profile stars">
+  <img src="https://komarev.com/ghpvc/?username=anjalitalan&style=for-the-badge&color=FFD8E5" alt="Profile views">
 </p>
 -->
 
@@ -73,17 +73,17 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anjalitalan&hide_border=true&background=0D1117&ring=FFA8CB&fire=51C9B3&currStreakLabel=FFA8CB&sideLabels=51C9B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=anjalitalan&hide_border=true&background=0D1117&ring=FFA8CB&fire=FFC4D9&currStreakLabel=FFA8CB&sideLabels=FFD8E5&currStreakNum=FFEAF1&sideNums=FFEAF1&dates=FFC4D9" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalitalan&bg_color=0D1117&color=51C9B3&line=FFA8CB&point=51C9B3&area=true&area_color=FFA8CB&hide_border=true" alt="GitHub activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalitalan&bg_color=0D1117&color=FFD8E5&line=FFA8CB&point=FFEAF1&area=true&area_color=FFC4D9&hide_border=true" alt="GitHub activity graph">
 </p>
 
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anjalitalan/anjalitalan/output/github-contribution-grid-snake.svg?v=3" alt="GitHub contribution snake animation">
+  <img src="https://raw.githubusercontent.com/anjalitalan/anjalitalan/output/github-contribution-grid-snake.svg?v=4" alt="GitHub contribution snake animation">
 </p>
 
 <h2 align="center">🌐 Let's Connect</h2>
@@ -94,16 +94,16 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/anjalitalan">
-    <img src="https://cdn.simpleicons.org/leetcode/51C9B3" width="45" height="45" alt="LeetCode" title="LeetCode">
+    <img src="https://cdn.simpleicons.org/leetcode/FFC4D9" width="45" height="45" alt="LeetCode" title="LeetCode">
   </a>
   &nbsp;&nbsp;
   <a href="mailto:talananjali19@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/FFA8CB" width="45" height="45" alt="Email" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/FFD8E5" width="45" height="45" alt="Email" title="Email">
   </a>
 </p>
 
 <p align="center">See you in the next commit 🌸</p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA8CB,50:51C9B3,100:FFA8CB&height=140&section=footer" alt="Pink and teal wave footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEAF1,35:FFD8E5,70:FFC4D9,100:FFA8CB&height=140&section=footer" alt="Pink wave footer">
 </p>
