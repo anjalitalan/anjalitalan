@@ -39,7 +39,7 @@
 <td width="35%" align="center" valign="middle">
 
 <img
-  src="https://github.com/anjalitalan/anjalitalan/blob/main/assets/ascii-portrait.svg"
+  src="https://github.com/anjalitalan/anjalitalan/blob/main/assets/ascii-portrait.svg" 
   width="300"
   alt="Anjali Talan ASCII portrait"
 />
