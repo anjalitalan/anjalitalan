@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="assets/profile-banner.png" alt="Anjali Talan Banner" width="100%">
-</p>
+</p> -->
 
 <!-- <h1 align="center">Hey there, I'm Anjali 👋</h1> -->
 
@@ -15,8 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=anjalitalan&style=for-the-badge&color=FFD8E5" alt="Profile views">
 </p>
 -->
-
-<h2 align="center">👩‍💻 About Me</h2>
 
 <table align="center">
 <tr>
